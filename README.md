@@ -40,7 +40,7 @@ holds indexing/planning/apply, `jmove::parser` the language frontends):
 
 ```toml
 [dependencies]
-jmove = { git = "https://github.com/loki5512344/jmove" }
+jmove = { git = "https://github.com/loki5512344ss/jmove" }
 # or, for a local checkout:  jmove = { path = "../jmove" }
 ```
 
